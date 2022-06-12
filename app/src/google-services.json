@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015679342664",
+    "project_id": "compound-interest-dc8ec",
+    "storage_bucket": "compound-interest-dc8ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015679342664:android:0107ad99d63eeb492d207d",
+        "android_client_info": {
+          "package_name": "com.code.compound.interest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015679342664-i6vn5jda8tr9fdu9irgabnuttspcbetv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAf1JBuXrRVAdlHbS9MyAmdrnwpxYCAsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015679342664-i6vn5jda8tr9fdu9irgabnuttspcbetv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
